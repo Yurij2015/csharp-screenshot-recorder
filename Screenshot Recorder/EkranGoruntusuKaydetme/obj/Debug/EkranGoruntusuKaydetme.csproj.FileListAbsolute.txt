@@ -1,0 +1,23 @@
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.exe.config
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.exe
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.pdb
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.csprojResolveAssemblyReference.cache
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.Form1.resources
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.Properties.Resources.resources
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.csproj.GenerateResource.Cache
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.exe
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.pdb
+c:\users\halit\documents\visual studio 2013\Projects\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.Form2.resources
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.exe.config
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.exe
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.pdb
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.exe
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.pdb
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.csprojResolveAssemblyReference.cache
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.Form1.resources
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.Form2.resources
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.Properties.Resources.resources
+C:\Users\Halit\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\bin\Debug\EkranGoruntusuKaydetme.exe.config
+C:\Users\ASUS-PC\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.exe
+C:\Users\ASUS-PC\Desktop\EkranGoruntusuKaydetme\EkranGoruntusuKaydetme\obj\Debug\EkranGoruntusuKaydetme.pdb
